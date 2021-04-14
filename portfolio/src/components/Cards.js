@@ -16,15 +16,15 @@ function Cards() {
               path="/Resume"
             />
             <CardItem
-              src="images/grandpa fish.jpg"
+              src="images/project.jpeg"
               text="My Works and Projects "
               label="Projects"
-              path="/fishing"
+              path="/project"
             />
           </ul>
           <ul className="cards__items">
           <CardItem
-              src="images/ammo.jpg"
+              src="images/contact.jpg"
               text="Contact Me"
               label="Contact"
               path="/contact"

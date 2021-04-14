@@ -64,10 +64,10 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
           <Link to="/" className="social-logo">
-            Blueslides <i className="fas fa-crosshairs"></i>utdoors
+            Logan Coates
           </Link>
           </div>
-          <small class='website-rights'>Blueslides Outdoors © 2021</small>
+          <small class='website-rights'>copyright © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

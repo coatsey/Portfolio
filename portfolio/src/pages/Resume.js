@@ -7,7 +7,7 @@ import Footer from '../components/Footer';
 function Resume () {
     return (
         <>
-            <p className="hunting"></p>
+            <p className="resume"></p>
             <Footer />
         </>
     )

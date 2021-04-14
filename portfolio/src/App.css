@@ -6,9 +6,9 @@
   }
   
   .home,
-  .hunting,
-  .guns,
-  .fishing,
+  .resume,
+  .contact,
+  .project,
   .ammo {
     display: flex;
     height: 90vh;
@@ -17,7 +17,7 @@
     font-size: 3rem;
   }
   
-  .hunting {
+  .resume {
     background-image: url('./images/img-2.jpg');
     background-position: center;
     background-size: cover;
@@ -26,8 +26,8 @@
     font-size: 100px;
   }
   
-  .fishing {
-    background-image: url('./images/Fishing-Wallpaper.jpg');
+  .project {
+    background-image: url('./images/img-5.jpg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
@@ -35,7 +35,7 @@
     font-size: 100px;
   }
 
-  .guns {
+  .contact {
     background-image: url('./images/img-8.jpg');
     background-position: center;
     background-size: cover;
