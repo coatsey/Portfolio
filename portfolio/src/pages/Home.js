@@ -10,8 +10,8 @@ function Home () {
     return (
         <>
             <Hero />
-            <Cards />
             <Jumbo />
+            <Cards />
             <Footer />
         </>
     )
