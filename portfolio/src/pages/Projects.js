@@ -1,14 +1,17 @@
 import React from 'react';
 import '../App.css';
-// import Cards from '../Cards';
 import Footer from '../components/Footer';
-// import Hero from '../Hero';
+import Projectcard from '../components/Projectcard';
+import '../pages/Projects.css'
+
 
 function Projects () {
     return (
         <>
-            <p className="resume"></p>
-            <Footer />
+            <div className="page">
+                <Projectcard />
+                <Footer />
+            </div>
         </>
     )
 }

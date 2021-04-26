@@ -3,16 +3,17 @@
     padding-left: 150px;
     padding-right: 150px;
     padding-bottom: 40px;
-    
-    
+
 }
 
 .card-text {
-    padding-left: 95px;
+    padding-left: 150px;
     font-size: 17px;
+    color: rgb(0, 0, 0);
 }
 
 .card-title {
-    padding-left: 95px;
+    padding-left: 175px;
     font-size: 35px;
+    color: rgb(0, 0, 0);
 }

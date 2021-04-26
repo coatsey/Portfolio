@@ -1,0 +1,23 @@
+.card-title {
+    padding: auto;
+    color: #fff;
+
+}
+.card-text {
+    color:#fff;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.card-link {
+    padding-left: 240px;
+    color: darkgrey;
+}
+
+.card {
+padding: 15px;
+background: url('../images/Dark.jpg') center center/cover no-repeat;
+}
+.card-group {
+    background-color: darkgrey;
+}

@@ -48,7 +48,7 @@
     position: relative;
     width: 100%;
     padding-top: 67%;
-    overflow: hidden;
+    /* overflow: hidden; */
   }
   
   .fade-img {
@@ -66,7 +66,7 @@
     font-size: 12px;
     font-weight: 700;
     color: #fff;
-    background-color: #1f98f4;
+    background-color: black;
     box-sizing: border-box;
   }
   
@@ -91,10 +91,12 @@
   
   .cards__item__info {
     padding: 20px 30px 30px;
+    color: white;
+    background-color: white;
   }
   
   .cards__item__text {
-    color: #252e48;
+    color: black;
     font-size: 30px;
     line-height: 32px;
   }
