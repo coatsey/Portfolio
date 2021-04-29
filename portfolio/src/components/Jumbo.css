@@ -5,15 +5,14 @@
     padding-bottom: 40px;
 
 }
-
-.card-text {
-    padding-left: 150px;
-    font-size: 17px;
-    color: rgb(0, 0, 0);
+.card-texts {
+    color: black;
+    padding-right: 5%;
+    font-size: 20px;
+    padding-left: 10%;
 }
-
 .card-title {
-    padding-left: 175px;
-    font-size: 35px;
-    color: rgb(0, 0, 0);
+    color: black;
+    text-align: center;
+    padding-left: 10%;
 }

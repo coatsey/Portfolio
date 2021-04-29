@@ -1,10 +1,12 @@
 .card-title {
-    padding: auto;
+    text-align: center;
+    /* padding: auto; */
     color: #fff;
 
 }
 .card-text {
     color:#fff;
+    text-align: center;
     padding-left: 50px;
     padding-right: 50px;
 

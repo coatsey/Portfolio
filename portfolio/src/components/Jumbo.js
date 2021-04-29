@@ -12,7 +12,7 @@ function Jumbo() {
         <div className="col-md-8">
           <div className="card-body">
             <h5 className="card-title">About Me</h5>
-            <p className="card-text">
+            <p className="card-texts">
               I'm Logan Coates and I just finished a bootcamp at the University
               of Utah to become a Full Stack Web Developer. I was born and
               rasied in Utah. Growing up my I played sports anything with a
