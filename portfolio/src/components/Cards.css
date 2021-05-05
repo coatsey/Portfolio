@@ -1,6 +1,6 @@
 .cards {
     padding: 4rem;
-    background: url('../images/Dark.jpg');
+    /* background: url('../images/Dark.jpg'); */
   }
   
   h1 {
@@ -119,5 +119,5 @@
     }
   }
   .title {
-    color: #fff;
+    color: black;
   }

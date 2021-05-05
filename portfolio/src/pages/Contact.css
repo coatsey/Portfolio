@@ -1,33 +1,38 @@
-.linkedin-img {
+   .card1,
+   .card2,
+   .card3 {
     display: block;
-    width: 300px;
-    height: 250px;
     margin-left: auto;
     margin-right: auto;
+    border: 2.5px solid black;
+    height: fit-content;
    }
 
-   .contact-img {
-    display: block;
-    width: 200px;
-    height: 200px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .p-tag {
-   text-align: center;
-   font-size: larger;
-  }
-  
-  .github-img {
-    display: block;
-    width: 300px;
-    height: 250px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .a-tag {
-    text-align: center;
-    font-size: larger;
-    color: darkgrey;
+   .card-img-top {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     height: fit-content;
+     width: fit-content;
+   }
+   .card-img-top2 {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     height: fit-content;
+     width: fit-content;
+   }
+   .card-img-top1 {
+     width: 20rem;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+   }
+   .card-group {
+     padding-top: 5rem;
+     padding-bottom: 2.5rem;
+   }
+   .card-group1 {
+     padding-top: rem;
+     padding-bottom: 5rem;
    }

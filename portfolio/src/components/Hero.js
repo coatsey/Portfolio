@@ -2,6 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './Hero.css';
+import { Link } from 'react-router-dom';
 
 function Hero() {
   return (
@@ -9,13 +10,15 @@ function Hero() {
       <h1>Logan Coates</h1>
       <p>Full Stack Web Developer</p>
       <div className='hero-btns'>
-        <Button
-          className='btns'
-          buttonStyle='btn--outline'
-          buttonSize='btn--large'
-        >
-          My Projects
-        </Button>
+        <Link to='/projects'>
+          <Button
+            className='btns'
+            buttonStyle='btn--outline'
+            buttonSize='btn--large'
+          >
+            View My Projects
+          </Button>
+        </Link>
       </div>
     </div>
   );

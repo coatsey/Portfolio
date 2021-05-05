@@ -1,25 +1,44 @@
 .card-title {
-    text-align: center;
-    /* padding: auto; */
-    color: #fff;
-
+  text-align: center;
+  color: black;
 }
 .card-text {
-    color:#fff;
-    text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
-
+  color: black;
+  text-align: center;
 }
-.card-link {
-    padding-left: 240px;
-    color: darkgrey;
+.card-link2,
+.card-link1,
+.card-link3 {
+  padding-left: 160px;
+  padding-right: 160px;
+  text-align: center;
+  color: black;
+  
 }
 
-.card {
-padding: 15px;
-background: url('../images/Dark.jpg') center center/cover no-repeat;
+.card1,
+.card2,
+.card3 {
+  padding: 30px;
+  width: 35rem;
+  border: black;
+  height: 690px;
 }
 .card-group {
-    background-color: darkgrey;
+  padding-left: 100px;
+  padding-right: 50px;
+}
+.card-img-top6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18rem;
+  height: 12rem;
+}
+.card-img-top9 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18rem;
+  height: 12rem;
 }

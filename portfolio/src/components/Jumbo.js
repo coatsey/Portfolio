@@ -1,5 +1,4 @@
 import React from "react";
-// import CardItem from "./CardItem";
 import "./Jumbo.css";
 
 function Jumbo() {
@@ -15,8 +14,9 @@ function Jumbo() {
             <p className="card-texts">
               I'm Logan Coates and I just finished a bootcamp at the University
               of Utah to become a Full Stack Web Developer. I was born and
-              rasied in Utah. Growing up my I played sports anything with a
-              ball. when I got a little older thats when I got into video games.{" "}
+              rasied in Utah. Growing up I was really into sports. As I got
+              older and had some injuries ive turned more to video game and
+              computers.{" "}
             </p>
           </div>
         </div>
