@@ -46,11 +46,11 @@ function Projectcard() {
           </div>
         </div>
       </div>
-      <div className="card-group">
+      <div className="card-group1">
         <div className="card3">
           <img src={Note} className="card-img-top9" alt="..." />
           <div className="card-body">
-            <h5 className="card-title">Card title</h5>
+            <h5 className="card-title">Note Taker</h5>
             <p className="card-text">
               This is a wider card with supporting text below as a natural
               lead-in to additional content. This card has even longer content

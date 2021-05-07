@@ -2,12 +2,12 @@
    .card2,
    .card3 {
     display: block;
+    border-radius: 25px;
     margin-left: auto;
     margin-right: auto;
     border: 2.5px solid black;
     height: fit-content;
    }
-
    .card-img-top {
      display: block;
      margin-left: auto;

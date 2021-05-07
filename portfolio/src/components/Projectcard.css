@@ -19,10 +19,10 @@
 .card1,
 .card2,
 .card3 {
-  padding: 30px;
   width: 35rem;
   border: black;
   height: 690px;
+  padding-bottom: 2.5rem;
 }
 .card-group {
   padding-left: 100px;
@@ -34,6 +34,7 @@
   margin-right: auto;
   width: 18rem;
   height: 12rem;
+
 }
 .card-img-top9 {
   display: block;
