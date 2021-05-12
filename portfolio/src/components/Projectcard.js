@@ -1,7 +1,6 @@
 import React from "react";
 import "./Projectcard.css";
 import "../App.css";
-import CardItem from "../components/CardItem";
 
 function Projectcard() {
   return (
@@ -11,26 +10,83 @@ function Projectcard() {
         <div className="cards__container">
           <div className="cards__wrapper">
             <ul className="cards__items">
-              <CardItem
-                src="images/click-game.png"
-                text="This is a game where you have to remember the card you clicked on and cant click on that card again "
-                label="Memory Game"
-                path="/project"
-              />
+              <li className="cards__item">
+                <div className="cards__item__link" to="">
+                  <figure
+                    className="cards__item__pic-wrap"
+                    data-category="Email"
+                  >
+                    <img
+                      src="images/click-game.png"
+                      alt="travel"
+                      className="cards__item__img"
+                    />
+                  </figure>
+                  <div className="cards__item__info">
+                    <h5 className="cards__item__text">
+                      This is a memory game where you can get 30 pictures of characters and you choose one and then you cant pick that same picture again
+                    </h5>
+                    <a
+                      href="https://memory-games-project.herokuapp.com/"
+                      className="btn btn-outline-dark"
+                    >
+                      Website Link
+                    </a>
+                  </div>
+                </div>
+              </li>
             </ul>
             <ul className="cards__items">
-              <CardItem
-                src="images/budget.png"
-                text="This app can track you income and spending habits"
-                label="Budget"
-                path="https://memory-games-project.herokuapp.com/"
-              />
-              <CardItem
-                src="images/note-taker.png"
-                text="This app will help you take and keep track of notes"
-                label="Note taker"
-                path="/contact"
-              />
+              <li className="cards__item">
+                <div className="cards__item__link" to="">
+                  <figure
+                    className="cards__item__pic-wrap"
+                    data-category="Back end (OMR)"
+                  >
+                    <img
+                      src="images/back-end.png"
+                      alt="travel"
+                      className="cards__item__img"
+                    />
+                  </figure>
+                  <div className="cards__item__info">
+                    <h5 className="cards__item__text">
+                      Checkout my projects on Github
+                    </h5>
+                    <a
+                      href="https://github.com/coatsey/E-Commerce_Back_End"
+                      className="btn btn-outline-dark"
+                    >
+                      Github Link
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li className="cards__item">
+                <div className="cards__item__link" to="">
+                  <figure
+                    className="cards__item__pic-wrap"
+                    data-category="Budget"
+                  >
+                    <img
+                      src="images/budget.png"
+                      alt="travel"
+                      className="cards__item__img"
+                    />
+                  </figure>
+                  <div className="cards__item__info">
+                    <h5 className="cards__item__text">
+                      This budget app helps you track your earnings and your spending
+                    </h5>
+                    <a
+                      href="https://secret-river-70452.herokuapp.com/"
+                      className="btn btn-outline-dark"
+                    >
+                      Website Link
+                    </a>
+                  </div>
+                </div>
+              </li>
             </ul>
           </div>
         </div>
