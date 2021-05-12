@@ -25,7 +25,7 @@ function Contact() {
                   </figure>
                   <div className="cards__item__info">
                     <h5 className="cards__item__text">
-                      Coates,logan1125@gmail.com
+                      Coates.logan1125@gmail.com
                     </h5>
                   </div>
                 </div>
