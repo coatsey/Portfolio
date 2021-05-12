@@ -26,7 +26,7 @@ function Resume () {
                     </figure>
                     <div className="cards__item__info">
                       <h5 className="cards__item__text">
-                        Checkout my projects on LinkedIn
+                        Here is a link to my Resume
                       </h5>
                       <a
                         href="https://drive.google.com/file/d/1bHmCia85buLkC10HgxQeNtMszUNXeeze/view?usp=sharing"
