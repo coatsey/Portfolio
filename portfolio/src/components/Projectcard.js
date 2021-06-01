@@ -14,7 +14,7 @@ function Projectcard() {
                 <div className="cards__item__link" to="">
                   <figure
                     className="cards__item__pic-wrap"
-                    data-category="Email"
+                    data-category="Memory game"
                   >
                     <img
                       src="images/click-game.png"
@@ -26,11 +26,20 @@ function Projectcard() {
                     <h5 className="cards__item__text">
                       This is a memory game where you can get 30 pictures of characters and you choose one and then you cant pick that same picture again
                     </h5>
+                    <h5 className="cards__item__text">
+                      React, JavaScript, CSS, Mongo AtlasDB database, Bootstrap
+                    </h5>
                     <a
                       href="https://memory-games-project.herokuapp.com/"
                       className="btn btn-outline-dark"
                     >
                       Website Link
+                    </a>
+                    <a
+                      href="https://github.com/jrobi133/memory-games"
+                      className="btn btn-outline-dark"
+                    >
+                      Github Link
                     </a>
                   </div>
                 </div>
@@ -52,6 +61,9 @@ function Projectcard() {
                   <div className="cards__item__info">
                     <h5 className="cards__item__text">
                       Checkout my projects on Github
+                    </h5>
+                    <h5 className="cards__item__text">
+                      Insomnia
                     </h5>
                     <a
                       href="https://github.com/coatsey/E-Commerce_Back_End"
@@ -78,11 +90,20 @@ function Projectcard() {
                     <h5 className="cards__item__text">
                       This budget app helps you track your earnings and your spending
                     </h5>
+                    <h5 className="cards__item__text">
+                      JavaScript, CSS, HTML
+                    </h5>
                     <a
                       href="https://secret-river-70452.herokuapp.com/"
                       className="btn btn-outline-dark"
                     >
                       Website Link
+                    </a>
+                    <a
+                      href="https://github.com/coatsey/PWA_Budget_Tracker"
+                      className="btn btn-outline-dark"
+                    >
+                      Github Link
                     </a>
                   </div>
                 </div>

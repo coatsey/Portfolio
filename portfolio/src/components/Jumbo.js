@@ -15,8 +15,11 @@ function Jumbo() {
               I'm Logan Coates and I just finished a bootcamp at the University
               of Utah to become a Full Stack Web Developer. I was born and
               rasied in Utah. Growing up I was really into sports. As I got
-              older and had some injuries ive turned more to video game and
+              older and had some injuries I've turned more to video game and
               computers.{" "}
+            </p>
+            <p className="card-text2">
+              React, JavaScript, CSS, SQL, HTML {" "}
             </p>
           </div>
         </div>
