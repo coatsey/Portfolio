@@ -50,10 +50,10 @@ function Projectcard() {
                 <div className="cards__item__link" to="">
                   <figure
                     className="cards__item__pic-wrap"
-                    data-category="Back end (OMR)"
+                    data-category="Blueslides"
                   >
                     <img
-                      src="images/back-end.png"
+                      src="images/blue.png"
                       alt="travel"
                       className="cards__item__img"
                     />
@@ -63,13 +63,19 @@ function Projectcard() {
                       Checkout my projects on Github
                     </h5>
                     <h5 className="cards__item__text">
-                      Insomnia
+                      ReactJs, JavaScript, CSS, HTML
                     </h5>
                     <a
-                      href="https://github.com/coatsey/E-Commerce_Back_End"
+                      href="https://github.com/coatsey/blueslides-/tree/master/blueslides"
                       className="btn btn-outline-dark"
                     >
                       Github Link
+                    </a>
+                    <a
+                      href="https://glacial-cliffs-95785.herokuapp.com/"
+                      className="btn btn-outline-dark"
+                    >
+                      Website Link
                     </a>
                   </div>
                 </div>

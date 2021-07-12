@@ -7,7 +7,7 @@ function Contact() {
   return (
     <div>
       <div className="cards">
-        <h1 className="title">My Projects</h1>
+        <h1 className="title">Contact Me</h1>
         <div className="cards__container">
           <div className="cards__wrapper">
             <ul className="cards__items">
